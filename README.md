@@ -66,3 +66,14 @@ annotators, who use the application to label the documents. During this process,
 are automatically uploaded to a GitHub repository, enabling the dataset administrator to collect the results and
 extract the consensus among all annotators. To date, over 600 APIs were manually selected from public repositories
 and more than 250 were labelled by the *junior*, *senior* and *expert* annotators.
+
+## Citation
+
+```text
+@dataset{fintechapis,
+  author    = {Lemelin, Edwin and Morais, Gabriel and Nuigues, Oumeima},
+  title     = {The Fin-Tech API Descriptions Dataset (FinTechAPIs)},
+  year      = {2024},
+  URL       = {https://github.com/UQAR-TUW/FinTechAPIs\_dataset}
+}
+```
